@@ -1,0 +1,20 @@
+{
+	"name": "tti-polyfill",
+	"description": "Polyfill for Time to Interactive. See https://goo.gl/OSmrPk",
+	"main": "tti-polyfill.js",
+	"authors": [
+		"Philip Walton <philip@philipwalton.com> (https://philipwalton.com/)"
+	],
+	"license": "Apache-2.0",
+	"homepage": "https://github.com/GoogleChrome/tti-polyfill",
+	"ignore": [
+		"bower_components",
+		"CONTRIBUTING.md",
+		"index.html",
+		"node_modules",
+		"package.json",
+		"rollup.config.js",
+		"src",
+		"tests"
+	]
+}
